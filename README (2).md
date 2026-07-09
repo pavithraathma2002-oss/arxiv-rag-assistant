@@ -55,7 +55,7 @@ Everything except the LLM runs locally — no GPU needed, no per-token cost.
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/sidharth-1005/arxiv-rag-assistant.git
+git clone [https://github.com/pavithraathma2002-oss/arxiv-rag-assistant.git]
 cd arxiv-rag-assistant
 ```
 
